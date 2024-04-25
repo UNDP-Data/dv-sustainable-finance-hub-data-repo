@@ -1,4 +1,4 @@
-Country,Country ISO code,public_finance_budget,public_finance_budget_note,public_finance_tax,public_finance_tax_notes,public_finance_debt,public_finance_debt_notes,insurance_and_risk_finance,private_capital
+﻿Country,Country ISO code,public_finance_budget,public_finance_budget_note,public_finance_tax,public_finance_tax_note,public_finance_debt,public_finance_debt_note,insurance_and_risk_finance,private_capital
 Afghanistan,AFG,,,,,,,,
 Åland Islands,ALA,,,,,,,,
 Albania,ALB,1,,,,,,,
