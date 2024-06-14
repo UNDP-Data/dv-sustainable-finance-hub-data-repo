@@ -1,4 +1,4 @@
-﻿Country,Country ISO code,public_finance_budget,public_finance_budget_note,public_finance_tax,public_finance_tax_note,public_finance_debt,public_finance_debt_note,insurance_and_risk_finance,private_capital,OECD Multidimensional Fragility Framework,World Bank Fragile and Crisis Affected Countries,Crisis Level
+﻿Country,Country ISO code,public_finance_budget,public_finance_budget_note,public_finance_tax,public_finance_tax_note,public_finance_debt,public_finance_debt_note,insurance_and_risk_finance,private_capital,OECD_Multidimensional_Fragility_Framework,WB_Fragile_and_Crisis_Affected_Countries,crisis_level
 Afghanistan,AFG,,,,,,,,,Extremely Fragile,Conflict,L2
 Åland Islands,ALA,,,,,,,,,,,
 Albania,ALB,1,,,,,,,,,,
